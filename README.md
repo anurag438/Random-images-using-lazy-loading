@@ -7,6 +7,7 @@ Lazy loading is an `optimization technique` for waiting to load certain parts of
 Check out my page on clicking [URL](https://65017a4540687c586c9bec2e--stalwart-biscotti-5d07bb.netlify.app/)
 
 ### About the page
+This page done using HTML, CSS AND JAVASCRIPT.
 This page loads images which are in the view of the user.
 When the user scrolls or goes to the end of the page other images are loaded.
 And when user reaches the end of the result, next results are automatically loaded which is done by `Intersection Observer API`.
