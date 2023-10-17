@@ -4,7 +4,7 @@ Lazy loading is an `optimization technique` for waiting to load certain parts of
 `Intersection Observer API` is used in the project.
 
 ### Page url
-Check out my page on clicking [URL](link: https://65017a4540687c586c9bec2e--stalwart-biscotti-5d07bb.netlify.app/)
+Check out my page on clicking [URL](https://65017a4540687c586c9bec2e--stalwart-biscotti-5d07bb.netlify.app/)
 
 ### About the page
 This page loads images which are in the view of the user.
